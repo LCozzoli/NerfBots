@@ -1,5 +1,5 @@
 # Nerf Rust  bots game events
-*I am the developer of rustLink, surprised that nobody has done this plugin before, I want to give server owners the opportunity to nerf bots if they desire to.*
+*I am the developer of rustLink, surprised that nobody has done this before without using harmony, I want to give server owners the opportunity to nerf bots if they desire to. Note that it'll affect the display of map markers on the Rust companion app*
 
 If you want to configure the nerf using the chat command you need to grand the permission **nerfbots.configuration**
 ```
